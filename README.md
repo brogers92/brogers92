@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @brogers92
-- 👀 I’m interested in ... Data Analysis, Data Collection and Visualization 
-- 🌱 I’m currently learning ... SQL, Tableau, & Python among others
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Bryan
+- 👀 I’m interested in Data Analysis, Data Collection, Data Manipulation and Data Visualization 
+- 🌱 I’m currently learning SQL, Tableau, & Python and R
 - 📫 How to reach me ... "bryanrogers92@gmail.com"
 
 <!---
