@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Data Collection, Data Manipulation and Data Visualization 
 - 🌱 I’m currently focusing on  SQL, Tableau, & Python and R
 - 📫 How to reach me ... "bryanrogers92@gmail.com"
-- Current Graduate Student at Bellevue University - M.S in Data Science
+- Bellevue University - M.S in Data Science c/o '24
 - Tableau portfolio: https://public.tableau.com/app/profile/bryan.rogers
 
 <!---
